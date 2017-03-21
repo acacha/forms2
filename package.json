@@ -1,0 +1,15 @@
+{
+  "name": "sergi-forms",
+  "version": "0.1.0",
+  "description": "Cool forms for Javascript",
+  "main": "Form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergi Tur Badenas <sergiturbadenas@gmail.com> (http://acacha.org)",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.15.3",
+    "babel-preset-es2015": "^6.24.0"
+  }
+}
